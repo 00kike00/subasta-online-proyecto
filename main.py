@@ -36,7 +36,7 @@ def main():
         movimiento="Automático"
     )
 
-    print("\n=== 🧾 Producto registrado ===")
+    print("\n=== Producto registrado ===")
     print(producto)
 
     # Abrir una subasta
